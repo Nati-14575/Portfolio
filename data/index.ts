@@ -83,15 +83,9 @@ export const projects = [
     id: 5,
     title: "Visit Oromia – Art Gallery Photo Stock",
     des: "Oromo cultural gallery with upload features, dynamic routing, and image grid view powered by Express.",
-    img: "/visit.svg",
-    iconLists: [
-      "/re.svg",
-      "/redux.svg",
-      "/node.svg",
-      "/express.svg",
-      "/mongodb.svg",
-    ],
-    link: "https://github.com/Nati-14575/visit-oromia",
+    img: "/visitoromia.png",
+    iconLists: ["/re.svg", "/redux.svg", "/node.svg", "/mongodb.svg"],
+    link: "https://gallery.visitoromia.org/",
   },
   {
     id: 6,
@@ -105,7 +99,7 @@ export const projects = [
     id: 7,
     title: "MERN Reward Platform – Share Purchase",
     des: "Full-stack MERN platform allowing users to complete tasks and earn points redeemable for shares.",
-    img: "/mernshare.svg",
+    img: "/keyug.png",
     iconLists: [
       "/re.svg",
       "/tail.svg",
@@ -113,7 +107,7 @@ export const projects = [
       "/express.svg",
       "/mongodb.svg",
     ],
-    link: "https://github.com/Nati-14575/reward-platform",
+    link: "https://etambsc.com",
   },
 ];
 
